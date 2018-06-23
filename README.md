@@ -2,6 +2,13 @@
 
 Repository to train voice models with new speech recognition models using KALDI. 
 
+## team members
+
+Active members of the team working on this repo include:
+
+* Dhruv Rajani (Arizona State University) 
+* Jim Schwoebel (Boston, MA) 
+
 ## how to download data
 
 We have a custom phoneme dataset that can be accessed here. 
